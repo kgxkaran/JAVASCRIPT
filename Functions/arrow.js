@@ -37,4 +37,4 @@ console.log(addTwo(7,8));
 
 // const addTwo = (num1, num2) => ( num1 + num2 )    other syntaxes
 
-const addTwo1 = (num1, num2) => ({username: "hitesh"})   //if we want to return an object {}
+const addTwo1 = (num1, num2) => ({username: "hitesh"})   //if we want to return an object use {}
